@@ -12,9 +12,8 @@ Must be txt file where spaces are replaced with commas and comma added after Mea
 Must change directory for unique user for output.
 Calibrator characterization constants may be updated periodically. 
 
-User is prompted for 3 inputs:
+User is prompted for 2 inputs:
 1. Calibrator #
 2. Water source (box monitor or probe)
-3. 
 
 Script determines cycles numbers, averages each cycle, separates online & offline, calculates both linear and non linear best fits, calculates OH sensitivity, calculates OH and HONO LODs.
