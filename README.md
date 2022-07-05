@@ -1,10 +1,12 @@
 # OH-Calibration-for-HONO-Cell
-Performs OH calibration to determine sensitivity parameters. 
-Inputs laser power, relative humidity, temperature, online &amp; offline signal, and other variables. Calculates OH and HONO LOD.
-
 Author: Bode Hoover (bodehoov@iu.edu)
 Adapted from VBA code written by Emily Reidy
 Last updated: July 5, 2022
+
+Performs OH calibration to determine sensitivity parameters. 
+Inputs laser power, relative humidity, temperature, online &amp; offline signal, and other variables. Calculates OH and HONO LOD.
+
+
 
 
 Default extractor constants must be edited prior to running (laser powers and UVouts). 
