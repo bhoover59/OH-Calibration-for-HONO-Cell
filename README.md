@@ -1,4 +1,4 @@
-# OH-Calibration-for-HONO-Cell
+# OH-Calibration-for-HONO-Cell OLD TXT VERSION
 Author: Bode Hoover (bodehoov@iu.edu)
 Adapted from VBA code written by Emily Reidy
 Last updated: July 5, 2022
